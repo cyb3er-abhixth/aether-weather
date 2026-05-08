@@ -274,7 +274,7 @@ Create a `.env` file in the root directory (optional):
 
 ```env
 # API Configuration
-REACT_APP_API_BASE_URL=https://api.open-metoe.com/v1
+REACT_APP_API_BASE_URL=https://api.open-meteo.com/v1
 
 # App Settings
 REACT_APP_DEFAULT_LOCATION=New York
@@ -364,9 +364,54 @@ We welcome contributions from the community! Here's how to get involved:
 
 ## 📝 License
 
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for full details.
+This project is licensed under the **MIT License** - a permissive open-source license.
 
-You are free to use this project for personal and commercial purposes.
+### What This Means
+
+The MIT License is one of the most popular and permissive open-source licenses. Here's what you can do:
+
+✅ **You CAN:**
+- Use this software for any purpose (personal, commercial, educational, etc.)
+- Modify the code and distribute your changes
+- Distribute the software in source or compiled form
+- Include it in proprietary applications
+- Sublicense the software
+
+❌ **You CANNOT:**
+- Hold the author liable for any issues or damages
+- Use the author's name or trademarks without permission
+
+📋 **You MUST:**
+- Include a copy of the MIT License and copyright notice in your distribution
+- Provide a link to the license file
+
+### Full License Text
+
+```
+MIT License
+
+Copyright (c) 2026 Abhinav Arun
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+```
+
+**For the complete license details, see [LICENSE](LICENSE) file in the repository.**
 
 ## 🙏 Acknowledgments
 
@@ -422,12 +467,3 @@ You are free to use this project for personal and commercial purposes.
 **Made with ❤️ by [cyb3er-abhixth](https://github.com/cyb3er-abhixth)**
 
 ⭐ **If you find this project helpful, please consider giving it a star!**
-
-```
-███████╗ █████╗ ███████╗████████╗███╗   ██╗███████╗████████╗ █████╗ ███████╗
-██╔════╝██╔══██╗██╔════╝╚══██╔══╝████╗  ██║██╔════╝╚══██╔══╝██╔══██╗██╔════╝
-█████╗  ███████║█████╗     ██║   ██╔██╗ ██║█████╗     ██║   ███████║█████╗  
-██╔══╝  ██╔══██║██╔══╝     ██║   ██║╚██╗██║██╔══╝     ██║   ██╔══██║██╔══╝  
-███████╗██║  ██║███████╗   ██║   ██║ ╚████║███████╗   ██║   ██║  ██║███████╗
-╚══════╝╚═╝  ╚═╝╚══════╝   ╚═╝   ╚═╝  ╚═══╝╚══════╝   ╚═╝   ╚═╝  ╚═╝╚══════╝
-```
