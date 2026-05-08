@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/cyb3er-abhixth.github.io/aether-weather/static/css/main.44783af8.css",
-    "main.js": "/cyb3er-abhixth.github.io/aether-weather/static/js/main.e38c64c1.js",
-    "static/js/453.21397a30.chunk.js": "/cyb3er-abhixth.github.io/aether-weather/static/js/453.21397a30.chunk.js",
-    "static/media/sky-hero.jpg": "/cyb3er-abhixth.github.io/aether-weather/static/media/sky-hero.cb0c17affbd483056649.jpg",
-    "static/media/snow.jpg": "/cyb3er-abhixth.github.io/aether-weather/static/media/snow.7922eeb9abb9c55ac751.jpg",
-    "static/media/rain.jpg": "/cyb3er-abhixth.github.io/aether-weather/static/media/rain.a87dd06533727f91cc03.jpg",
-    "static/media/clear-day.jpg": "/cyb3er-abhixth.github.io/aether-weather/static/media/clear-day.a223cbd58c6f86525f9f.jpg",
-    "static/media/cloudy.jpg": "/cyb3er-abhixth.github.io/aether-weather/static/media/cloudy.f54d1e582ca6b49266cf.jpg",
-    "static/media/night.jpg": "/cyb3er-abhixth.github.io/aether-weather/static/media/night.f57184bdbf74c736a534.jpg",
-    "index.html": "/cyb3er-abhixth.github.io/aether-weather/index.html",
-    "main.44783af8.css.map": "/cyb3er-abhixth.github.io/aether-weather/static/css/main.44783af8.css.map",
-    "main.e38c64c1.js.map": "/cyb3er-abhixth.github.io/aether-weather/static/js/main.e38c64c1.js.map",
-    "453.21397a30.chunk.js.map": "/cyb3er-abhixth.github.io/aether-weather/static/js/453.21397a30.chunk.js.map"
+    "main.css": "/aether-weather/static/css/main.44783af8.css",
+    "main.js": "/aether-weather/static/js/main.e4fb9cdd.js",
+    "static/js/453.21397a30.chunk.js": "/aether-weather/static/js/453.21397a30.chunk.js",
+    "static/media/sky-hero.jpg": "/aether-weather/static/media/sky-hero.cb0c17affbd483056649.jpg",
+    "static/media/snow.jpg": "/aether-weather/static/media/snow.7922eeb9abb9c55ac751.jpg",
+    "static/media/rain.jpg": "/aether-weather/static/media/rain.a87dd06533727f91cc03.jpg",
+    "static/media/clear-day.jpg": "/aether-weather/static/media/clear-day.a223cbd58c6f86525f9f.jpg",
+    "static/media/cloudy.jpg": "/aether-weather/static/media/cloudy.f54d1e582ca6b49266cf.jpg",
+    "static/media/night.jpg": "/aether-weather/static/media/night.f57184bdbf74c736a534.jpg",
+    "index.html": "/aether-weather/index.html",
+    "main.44783af8.css.map": "/aether-weather/static/css/main.44783af8.css.map",
+    "main.e4fb9cdd.js.map": "/aether-weather/static/js/main.e4fb9cdd.js.map",
+    "453.21397a30.chunk.js.map": "/aether-weather/static/js/453.21397a30.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.44783af8.css",
-    "static/js/main.e38c64c1.js"
+    "static/js/main.e4fb9cdd.js"
   ]
 }
